@@ -1,0 +1,108 @@
+﻿Coding Standards and Best Practices
+
+Agreeing Members:
+Petra Andraschko
+Jatin Patel 
+Taylor Addington
+Alegna M. Medina Rodriguez
+
+Purpose
+
+To develop reliable and maintainable applications, you must follow coding standards and best practices.
+
+The naming conventions, coding standards and best practices described in this document are compiled from our own experience
+
+All team members are always expected to follow the coding standards and best practices.
+
+
+Commenting standards
+
+	File header expectation
+	
+		Example: //<Filename>
+
+	Method heading expectation
+	
+		Example: //Explanation of what the method does
+			 //What the parameters of the function are
+
+	Code block expectation
+	
+		Example: //Explanation of what the code block is supposed to do
+
+
+Naming convention
+
+	Meaningful, descriptive words to name variables.
+	Good:
+		string CharacterName;
+		int Row, Column;
+		GameObject SpawnedItem;
+
+	Not Good:
+		string nam;
+		int i,j;
+		GameObject temp;
+
+	Capitalization expectation
+	
+		Example: Pascal Casing for functions, Camel Casing for variables
+			void ReadName(), int weaponDamage
+		
+	Standard Prefixing 
+	
+		Example: For parameter variables use underscore
+			void ReadName(string _name)
+		
+	Abbreviation use 
+	
+		Example: Allowed if variable is discernable
+		
+
+File Formatting
+
+
+Indentation and Spacing
+
+	Indenting standard
+	
+		Example: crtl K+D will format the document
+		
+	Curly braces ( {} ) format
+	
+		Example: void ReadName()
+			 {
+			   //function 
+			 }
+		
+	Blank line expectation
+	
+		Example: Two new lines between chunks of code
+		
+	Spacing around operators
+	
+		Example: space before and after operator
+			1 + 1
+
+	
+Programming practices
+
+	Maximum characters per line
+	
+		Example: Don't let the characters fill the screen
+		
+	Maximum nested conditions 
+	
+		Example: 3 maximum nested conditions
+		
+	Maximum lines per method
+	
+		Example: As many as needed
+		
+	#region usage
+	
+		Example: not needed
+		
+	Static values (hardcoded numbers. Const variables, and #defines)
+	
+		Example: certain things will be hardcoded
