@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d8f6a1f5277f3b4aa1019c3c4dc6a5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - hurt: {fileID: 8300000, guid: 565be76cfa840a34fb00d3845a60fc35, type: 3}
+  - burn: {instanceID: 0}
+  - sparks: {fileID: 4862458918604485940, guid: e38789e27b3813e4695ae8660c15bccc,
+      type: 3}
+  - blood: {fileID: 7209053802212718509, guid: 36b711bee4fb100469ac728bf7577c6f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

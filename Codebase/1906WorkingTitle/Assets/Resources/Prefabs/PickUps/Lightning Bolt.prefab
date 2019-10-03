@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7130989592413847642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3181572459067244774, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_Name
+      value: Lightning Bolt
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -25.215391
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 45.024128
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -27.250454
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.003741169
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.003741169
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181572459066891462, guid: db5d157bea92c334da39b722fd89e07a,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.003741169
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686917436, guid: db5d157bea92c334da39b722fd89e07a, type: 3}
+      propertyPath: name
+      value: Lightning Bolt
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686917436, guid: db5d157bea92c334da39b722fd89e07a, type: 3}
+      propertyPath: sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b5d0bd7ce4e69224da537a266c8fbc32,
+        type: 3}
+    - target: {fileID: 1686917436, guid: db5d157bea92c334da39b722fd89e07a, type: 3}
+      propertyPath: consumableEffect
+      value: 
+      objectReference: {fileID: 1301320370126645320, guid: 63ab55c6f5c5025439b42a193100df34,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db5d157bea92c334da39b722fd89e07a, type: 3}

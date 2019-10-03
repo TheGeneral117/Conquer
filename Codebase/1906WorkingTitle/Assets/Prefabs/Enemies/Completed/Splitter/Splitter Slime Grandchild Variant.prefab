@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-888243233149852144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5160855801829184972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ebe82e679cbba4ca0eaf330d216fbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &5894363384833778008
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1608901376067040404, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_Name
+      value: Splitter Slime Grandchild Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040411, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040413, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: childEnemy
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040412, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_Radius
+      value: 1.2761006
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040412, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.0064855814
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040412, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.5947422
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608901376067040412, guid: cc74026ce59200343ad83a9c62211c32,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0.017686129
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cc74026ce59200343ad83a9c62211c32, type: 3}
+--- !u!1 &5160855801829184972 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1608901376067040404, guid: cc74026ce59200343ad83a9c62211c32,
+    type: 3}
+  m_PrefabInstance: {fileID: 5894363384833778008}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,1780 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5091552552226564297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7596477496416761570}
+  m_Layer: 0
+  m_Name: Grated Slime Extended Rivers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7596477496416761570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5091552552226564297}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -56.04785, y: -8.916534, z: -169.79102}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8551891578760045592}
+  - {fileID: 228774058623412950}
+  - {fileID: 6306297110279474997}
+  - {fileID: 2843324602835308029}
+  - {fileID: 1275469885520443656}
+  - {fileID: 7143058561497122912}
+  - {fileID: 987844899835413314}
+  - {fileID: 3577668166453029207}
+  - {fileID: 6364628939035585121}
+  - {fileID: 8965437147747602792}
+  - {fileID: 8863003259413919979}
+  - {fileID: 4135800872609454296}
+  - {fileID: 3941281140923593403}
+  - {fileID: 5701230424643346760}
+  - {fileID: 4953403604678529189}
+  - {fileID: 3984702732334676147}
+  - {fileID: 4950531045648295804}
+  - {fileID: 1926095323332001359}
+  - {fileID: 289519016917046158}
+  - {fileID: 4850134514975830578}
+  - {fileID: 5595461410438068270}
+  - {fileID: 82379227743647098}
+  - {fileID: 7718073216914709697}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &568300376774960121
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25.657852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &4135800872609454296 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 568300376774960121}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &591216771431991706
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.627851
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &3941281140923593403 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 591216771431991706}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &705605884525495186
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.557854
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &3984702732334676147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 705605884525495186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1089938078218359414
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.067852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &3577668166453029207 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1089938078218359414}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1870074101975480028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7321472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.038986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &2843324602835308029 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1870074101975480028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2611119837505242478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25.147854
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &1926095323332001359 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2611119837505242478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3401682061371638313
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7321472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &1275469885520443656 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3401682061371638313}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3689527155573160035
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.197853
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &987844899835413314 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3689527155573160035}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4216150826781567151
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.087852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &289519016917046158 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4216150826781567151}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4443529041719710199
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7321472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.8110199
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &228774058623412950 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4443529041719710199}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4585501892783672923
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.477852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &82379227743647098 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4585501892783672923}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4822778232410548809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.017853
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &8965437147747602792 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4822778232410548809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4934225916906275786
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.98785
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &8863003259413919979 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4934225916906275786}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5199474768706985785
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7321472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.7210083
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &8551891578760045592 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 5199474768706985785}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6168322248708925408
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.117853
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &7718073216914709697 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 6168322248708925408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6748484883902772033
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.2578506
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &7143058561497122912 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 6748484883902772033}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7410082310145724736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.047852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &6364628939035585121 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7410082310145724736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7566651121570198548
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7321472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1289825
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &6306297110279474997 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7566651121570198548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8185437496151333481
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.59785
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.818985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &5701230424643346760 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8185437496151333481}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8295982718271243023
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.537853
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &5595461410438068270 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8295982718271243023}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8806088770390563933
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.507854
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &4950531045648295804 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8806088770390563933}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8806881981075270532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.7478523
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &4953403604678529189 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8806881981075270532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9063900456802683155
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7596477496416761570}
+    m_Modifications:
+    - target: {fileID: 5162621691647191063, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_Name
+      value: Grated Slime Pond (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.687855
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.603466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.7910156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de1f7df1f8c8121478895b6b3568e47d, type: 3}
+--- !u!4 &4850134514975830578 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4505379555011689249, guid: de1f7df1f8c8121478895b6b3568e47d,
+    type: 3}
+  m_PrefabInstance: {fileID: 9063900456802683155}
+  m_PrefabAsset: {fileID: 0}

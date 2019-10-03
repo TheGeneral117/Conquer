@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55d5be3e322aa445a24c2c6358ccadf, type: 3}
+  m_Name: Companions Dialogue
+  m_EditorClassIdentifier: 
+  textArray:
+  - This companion boosts your strength in combat.
+  - This companion doubles the value of the coins you pick up.
+  - This companion reduces the amount of damage you take in battle.
+  - This companion makes you immune to taking damage from fire.
+  - This companion increases your life power and constantly heals your wounds.
+  - This companion makes you immune to being frozen.
+  - This companion will fetch items that drop from enemies.
+  - This companion will run towards and attack enemies in your path.
+  - This companion makes you move faster than you could before.
+  - This companion will make potions when an enemy is killed.
+  - This companion will shoot pellets at enemies in your path.
+  - This companion will make you immune from being stunned.
+  - This companion will shoot pellets that stun your enemies.
+  - This companion will increase the rate at which you grow stronger.
+  - 'I know the creatures of this land, bring one to me and I will share what I know.
+
+    When you get new companions your old ones will return here.'

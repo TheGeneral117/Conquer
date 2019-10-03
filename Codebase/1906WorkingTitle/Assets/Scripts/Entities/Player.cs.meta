@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c8731e60b3d0ef41b84d99bf6adac72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fire: {fileID: 8300000, guid: 369d22e84dbde8b40a5e2f50de620941, type: 3}
+  - crosshairs: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - projectile2: {instanceID: 0}
+  - projectile3: {instanceID: 0}
+  - mainUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

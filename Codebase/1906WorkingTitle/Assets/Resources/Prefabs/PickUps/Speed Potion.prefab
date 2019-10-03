@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4412035305224568463
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3371395352039972693, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_Name
+      value: Speed Potion
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3368796350588388649, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373190173062687597, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: name
+      value: Speed Potion
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359039121006372747, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359071132678529193, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3358939078027047881, guid: 94185d1852af3ce4fa4cad1b95348fcd,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 94185d1852af3ce4fa4cad1b95348fcd, type: 3}
